@@ -4,6 +4,24 @@
 
 ## Transformating data into actionable insights through analytics and visualization
 
-![data](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Bmcm5tMXNpZXp4ZTZud3hvcmEwbGw5MDY1MGJ4ejRjN2c0Z21kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
 
-# novita ulandari aku mencintainya dan aku sangat menyayanginya
+<table>
+<tr>
+<td width="55%">
+🔭 Currently building Data Analytics projects
+
+🌱 Learning SQL, Python, Power BI, and Looker Studio
+
+📊 Interested in Data Analytics, Business Intelligence, and Data Visualization
+
+🎯 Goal: Become a professional Data Analyst
+
+📚 Preparing for Master's degree in Data Science / Analytics
+
+💡 Passionate about turning data into actionable insights
+</td>
+<td width="45%">
+<img src="img/gambar_samping.png" width="300"/>
+</td>
+</tr>
+</table>
