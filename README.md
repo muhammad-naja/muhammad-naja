@@ -4,10 +4,21 @@
 
 ## Transformating data into actionable insights through analytics and visualization
 
+<img align="right" alt="Data Analyst" width="250" src="img/gambar_samping.png">
 
-<table>
-<tr>
-<td width="55%">
+Hi, I'm Muhammad Naja 👋
+
+🔭 Building Data Analytics Projects
+
+🌱 Learning Advanced SQL, Python, and Statistics
+
+📊 Creating Interactive Dashboards with Power BI & Looker Studio
+
+☁️ Exploring BigQuery and Cloud Analytics
+
+📚 Preparing for a Master's Degree in Data Analytics
+
+🎯 Turning Data into Actionable Insights
 🔭 Currently building Data Analytics projects
 
 🌱 Learning SQL, Python, Power BI, and Looker Studio
@@ -19,9 +30,4 @@
 📚 Preparing for Master's degree in Data Science / Analytics
 
 💡 Passionate about turning data into actionable insights
-</td>
-<td width="45%">
-<img src="img/gambar_samping.png" width="300"/>
-</td>
-</tr>
-</table>
+
