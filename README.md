@@ -5,32 +5,35 @@
 ## Transformating data into actionable insights through analytics and visualization
 
 
-<h1 align="left">Hi 👋, I'm Muhammad Naja</h1>
-<h3 align="left">Aspiring Data Analyst</h3>
+<ul>
+  <li>Building Data Analytics Projects</li>
+  <li>Learning Advanced SQL, Python, and Statistics</li>
+  <li>Creating Interactive Dashboards with Power BI & Looker Studio</li>
+  <li>Exploring BigQuery and Cloud Analytics</li>
+  <li>Turning Data into Actionable Insights</li>
+  <li>Currently building Data Analytics projects</li>
+  <li>Learning SQL, Python, Power BI, and Looker Studio</li>
+  <li>Interested in Data Analytics, Business Intelligence, and Data Visualization</li>
+  <li>Goal: Become a professional Data Analyst</li>
+  <li>Preparing for Master's degree in Data Science / Analytics</li>
+  <li>Passionate about turning data into actionable insights</li>
+</ul>
 
-<img align="right" alt="Data Analyst" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
+<h3 align="left"> Languages & Tools:</h3>
 
-🔭 Building Data Analytics Projects
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-🌱 Learning Advanced SQL, Python, and Statistics
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-📊 Creating Interactive Dashboards with Power BI & Looker Studio
-
-☁️ Exploring BigQuery and Cloud Analytics
-
-📚 Preparing for a Master's Degree in Data Analytics
-
-🎯 Turning Data into Actionable Insights
-🔭 Currently building Data Analytics projects
-
-🌱 Learning SQL, Python, Power BI, and Looker Studio
-
-📊 Interested in Data Analytics, Business Intelligence, and Data Visualization
-
-🎯 Goal: Become a professional Data Analyst
-
-📚 Preparing for Master's degree in Data Science / Analytics
-
-💡 Passionate about turning data into actionable insights
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Visualization-0A66C2?style=for-the-badge" />
