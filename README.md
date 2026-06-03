@@ -4,9 +4,12 @@
 
 ## Transformating data into actionable insights through analytics and visualization
 
-<img align="right" alt="Data Analyst" width="250" src="img/gambar_samping.png">
 
-Hi, I'm Muhammad Naja 👋
+<h1 align="left">Hi 👋, I'm Muhammad Naja</h1>
+<h3 align="left">Aspiring Data Analyst</h3>
+
+<img align="right" alt="Data Analyst" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 
 🔭 Building Data Analytics Projects
 
