@@ -3,20 +3,15 @@
 ## Transformating data into actionable insights through analytics and visualization
 
 
-<ul>
-  <li>Building Data Analytics Projects</li>
-  <li>Learning Advanced SQL, Python, and Statistics</li>
-  <li>Creating Interactive Dashboards with Power BI & Looker Studio</li>
-  <li>Exploring BigQuery and Cloud Analytics</li>
-  <li>Turning Data into Actionable Insights</li>
-  <li>Currently building Data Analytics projects</li>
-  <li>Learning SQL, Python, Power BI, and Looker Studio</li>
-  <li>Interested in Data Analytics, Business Intelligence, and Data Visualization</li>
-  <li>Goal: Become a professional Data Analyst</li>
-  <li>Preparing for Master's degree in Data Science / Analytics</li>
-  <li>Passionate about turning data into actionable insights</li>
-</ul>
+📊 Building an end-to-end data analytics project
 
+📈 Creating interactive dashboards with Power BI and Looker Studio
+
+🐍 Using SQL and Python for data analysis
+
+☁️ Exploring BigQuery and cloud analytics
+
+🎓 Preparing for a Master's degree in Data Analytics
 
 <h3 align="left"> Languages & Tools:</h3>
 
@@ -26,7 +21,3 @@
 
 ![https://www.instagram.com/muhmdnaja](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/muhammadnaja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/muhammad-naja](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![muhammadnaja493@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-
-<img src="https://raw.githubusercontent.com/muhammad-naja/muhammad-naja/snake-output/snake.svg" alt="Snake animation" />
-
-###
